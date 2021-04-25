@@ -67,3 +67,10 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# Ulysses
+.Ulysses-Settings.plist
+.Ulysses-Group.plist
+
+# Drafts
+content/private
