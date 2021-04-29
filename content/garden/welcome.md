@@ -10,8 +10,11 @@ Este subdominio es un digital garden 🌱 de esta manera me ayuda a organizar pe
 2. Cada documento debe ser atómico. Escribir las cosas que pertenecen solo a ese documento y limitar su contenido a ese tema.
 3. Obtener una vista del conocimiento mediante **Graph Visualization** para descubrir las relaciones entre las notas usando **Backlinks**.
 
-Este [repositorio de GitHub](https://github.com/MaggieAppleton/digital-gardeners) contiene información interesante y herramientas sobre digital gardens.
+Este [repositorio de GitHub][0] contiene información interesante y herramientas sobre digital gardens.
 
-## Últimas lecturas
+## Volver a eresendez.com
 
-- [[Near]]
+Haz [click aquí][1] para volver a eresendez.com
+
+[0]: https://github.com/MaggieAppleton/digital-gardeners
+[1]: https://eresendez.com
