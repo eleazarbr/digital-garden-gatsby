@@ -5,4 +5,4 @@ title: "Laravel"
 # Laravel
 
 ## Links
-- Sobre [[Laravel Packages]]
+- [[Laravel Packages]]
