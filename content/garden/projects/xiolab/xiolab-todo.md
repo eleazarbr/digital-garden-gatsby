@@ -1,8 +1,8 @@
 ---
-title: "Xiolab Todos"
+title: "Xiolab Todo"
 ---
 
-# Xiolab Todos
+# Xiolab Todo
 
 ## In progress
 - [ ] Añadir todas las traducciones en todas las vistas
